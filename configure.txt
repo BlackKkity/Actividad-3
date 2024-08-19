@@ -1,0 +1,3 @@
+pip install pymongo  
+
+#porque hay que instalar la base de datos mongo#
